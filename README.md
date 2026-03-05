@@ -3,7 +3,7 @@
 > **Affiliation**: Summer Undergraduate Research Fellowship (SURF), XJTLU
 ##  Project Poster
 <p align="center">
-  <img src="./SURF-2025-0063(1).jpg" width="800" alt="Lingwu Project Poster">
+  <img src="./poster.jpg" width="800" alt="Lingwu Project Poster">
 </p>
 
 > *This poster was presented at the XJTLU SURF Symposium, summarizing our team's research on LLM Agent orchestration.*
